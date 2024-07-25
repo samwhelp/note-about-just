@@ -14,7 +14,7 @@ has_children: false
 
 | Just |
 | --- |
-| [Just](https://ziglang.org/) |
+| [Just](https://just.systems/) |
 | GitHub / [just](https://github.com/casey/just) |
 
 
